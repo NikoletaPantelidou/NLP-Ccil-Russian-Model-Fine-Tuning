@@ -14,6 +14,8 @@ The fine-tuning process adapts this model to accurately detect and classify disc
 ## Results
 
 ## Technologies
- **🐍 Python: Primary programming language for data processing and model training
- **🤗 Hugging Face Transformers: For loading and fine-tuning the pretrained model
-**🔥 PyTorch: Deep learning framework used for training
+🐍 Python: Primary programming language for data processing and model training
+
+🤗 Hugging Face Transformers: For loading and fine-tuning the pretrained model
+
+🔥 PyTorch: Deep learning framework used for training
